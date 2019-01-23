@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            修改程序 <code>src/App.js</code> 保存后查看页面
           </p>
           <a
             className="App-link"
@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            React 入门介绍
           </a>
         </header>
       </div>
